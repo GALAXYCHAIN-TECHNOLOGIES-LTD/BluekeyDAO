@@ -41,3 +41,8 @@ Q4,2022
 - Setup BDP3 ten(10) member Multi-Signature Treasury Wallets, 2/3 signatories.
 - Transform & Commit BluekeyDAO for full-scale Community Voting & Governance Protocol
 - Legally Register the DAO in Crypto-friendly Jurisdictions.
+
+
+2023
+- Design & Development of the BluekeyDAO Application-Specific Blockchain using Cosmos SDK.
+- Migration of BluekeyDAO to its native blockchain.
