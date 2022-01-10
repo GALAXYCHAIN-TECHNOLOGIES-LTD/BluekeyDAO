@@ -6,12 +6,12 @@ In the Beginning of Bluekey, Suanu Neenwi(Jan,2019) started BluekeyClub, and cre
 Now, Bluekey transforms into a global Decentralized Autonomous Organisation(DAO) this 10th Day of January 2022.
 
 
-Govrenance & Voting
+Governance & Voting
 **Bluekey-BKY will be used for voting proposals by stakeholders.
 **BKYC is an Ethereum Smart Contract token, with 10 Billion Total Supply
 
 Ecosystem Utility Token
-***BluekeyCash-BKYC will be used as the utility token for staking, & transactions within the DAO Ecosystem.
+***BluekeyCash-BKYC will be used as the utility token for staking,protocol rewards(incentives) & transactions within the DAO Ecosystem.
 **BKYC is a Binance Smart Contract token with mintable Supply.
 
 ROAD-MAP 2022
